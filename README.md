@@ -1,6 +1,6 @@
 ### Hi there 👋   
 
- - 💻   **I'm a Front-End Develover**    
+ - 💻   **I'm a Front-End Developer**    
 
  - 🇰🇷  **I'm working in South Korea**
 
